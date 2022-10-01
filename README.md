@@ -1,4 +1,4 @@
-<h1 align="center">Building a survey form</h1>
+<h1 align="left">Building a survey form</h1>
 
 This is a required project, part of the Responsive Web Design Curriculum, found at [freecodecamp.com](https://www.freecodecamp.org/learn/2022/responsive-web-design/)</h3>
 
